@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.maincontainer {
+    height: 90vh;
+    background-image: url(https://wallpaperaccess.com/full/51363.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box1 {
+    width: 150px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+}
+.box2 {
+    width: 600px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 180px;
+    color: white;
+    font-size: 14px;
+}
+.nav {
+    margin-right: 20px;
+}
+
+.container1 {
+    display: flex;
+}
+.box3 {
+    width: 420px;
+    height: 280px;
+    margin-left: 50px;
+    margin-top: 70px;
+}
+.box4 {
+    background-color: black;
+    opacity: 0.6; 
+    border-radius: 12px;
+    width: 200px;
+    height: 250px;
+    margin-left: 220px;
+    margin-top: 80px;
+    padding: 12px;
+    box-sizing: border-box;
+}
+.container2{
+    display: flex;
+}
+input[type="search"] {
+    width: 150px;
+    height: 23px;
+    border-radius: 5px;
+    font-size: 10px;
+    text-align: center;
+    letter-spacing: 3px;
+    border: 1px solid orange;
+}
+input[type="submit"] {
+    width: 60px;
+    height: 23px;
+    font-size: 12px;
+    border-radius: 5px;
+    border: 1px solid orange;
+    background-color: orange;
+    color: white;
+    margin-left: -2px;
+}
+h1 {
+    color: orange;
+    font-size: 45px;
+}
+p {
+    color: white;
+}
+.p1 {
+    font-size: 35px;
+    margin-top: 15px; 
+}
+.p2 {
+    margin-top: 20px;
+}
+.btn1 {
+    border: 1px solid orange;
+    border-radius: 20px;
+    background-color: orange;
+    color: white;
+    width: 80px;
+    height: 30px;
+    margin-top: 20px;
+    font-size: 12px;
+}
+h3 {
+    margin-top: 5px;
+    color: orange;
+    text-align: center;
+}
+form input {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: orange;
+    background-color: black;
+    /* opacity: 0.6;  */
+    font-size: 12px;
+    color: white;
+    margin-left: 15px;
+    margin-top: 12px;
+}
+.btn2 {
+    background-color: orange;
+    width: 70px;
+    height: 25px;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.div1 {
+    color: orange;
+    font-size: 14px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.div2 {
+    color: orange;
+    font-size: 14px;
+    margin-left: 62px;
+    margin-top: 5px;
+}
+.div3 {
+    color: orange;
+    font-size: 14px;
+    margin-left: 62px;
+    margin-top: 5px;
+}
